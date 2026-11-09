@@ -44,6 +44,12 @@ Ao abrir o link, o Mobbi Grok é importado para o Grok Bot. A primeira conversa 
 
 Depois disso, peça em linguagem natural para reservar, consultar ou cancelar um lugar.
 
+## Exemplo de uso
+
+![Reserva de um lugar de estacionamento só por pedir ao Grok Bot na conversa.](docs/exemplo-reserva.png)
+
+Reserva de um lugar de estacionamento só por pedir ao Grok Bot na conversa.
+
 ## Credenciais e dados pessoais
 
 Este repositório é um modelo partilhável. Não inclui credenciais nem dados pessoais. Guarde os inícios de sessão no cofre do bot, nunca neste repositório.
@@ -87,6 +93,12 @@ Opening it imports Mobbi Grok into Grok Bot. The first conversation asks for the
    - whether the same days are booked every week and, if so, an optional weekly routine that books them automatically ahead of time.
 
 After that, ask in plain language to book, check or cancel a spot.
+
+## Usage example
+
+![Booking a parking spot by just asking Grok Bot in the chat.](docs/exemplo-reserva.png)
+
+Booking a parking spot by just asking Grok Bot in the chat.
 
 ## Credentials and personal data
 
