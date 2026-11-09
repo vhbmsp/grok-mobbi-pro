@@ -38,7 +38,7 @@ Ao abrir o link, o Mobbi Grok é importado para o Grok Bot. A primeira conversa 
    - `skills/book-mobbipro-parking/SKILL.md`
 3. Inicie a primeira conversa. A skill `mobbipro-getting-started` pergunta, um ponto de cada vez:
    - o endereço do portal;
-   - o início de sessão, num formulário seguro, para ficar guardado no cofre (vault) do bot;
+   - o início de sessão, num formulário seguro, para ficar guardado no cofre ([vault](https://docs.x.ai/grok-bot/vault)) do bot;
    - opcionalmente, a zona, o tipo de lugar, o veículo e o idioma, porque o portal já assume as predefinições da conta;
    - se reserva os mesmos dias todas as semanas e, nesse caso, uma rotina semanal opcional que os reserva automaticamente com antecedência.
 
@@ -88,7 +88,7 @@ Opening it imports Mobbi Grok into Grok Bot. The first conversation asks for the
    - `skills/book-mobbipro-parking/SKILL.md`
 3. Start the first chat. The getting-started skill asks, one item at a time, for:
    - the portal address;
-   - the login, through a Secure Form, so it is saved in the bot's vault;
+   - the login, through a Secure Form, so it is saved in the bot's [vault](https://docs.x.ai/grok-bot/vault);
    - optionally, the zone, spot type, vehicle and language, because the portal already assumes the account's defaults;
    - whether the same days are booked every week and, if so, an optional weekly routine that books them automatically ahead of time.
 
