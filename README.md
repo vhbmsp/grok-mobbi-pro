@@ -2,6 +2,8 @@
 
 Modelo público de um Grok Bot que reserva, consulta e cancela lugares de estacionamento no portal MobbiPro de uma empresa (`https://<tenant>.mobbipro.pt`).
 
+> **🎙️ 🚗 As reservas podem ser feitas por voz no Grok Bot. Nos carros Tesla, a reserva pode ser feita diretamente a partir do carro.**
+
 ## O que faz
 
 O Mobbi Grok trata do estacionamento no portal MobbiPro:
@@ -48,6 +50,8 @@ Este repositório é um modelo partilhável. Não inclui credenciais nem dados p
 ## What the bot does
 
 Mobbi Grok is a public, shareable Grok Bot template. It books, checks and cancels parking spots on a company's MobbiPro portal (`https://<tenant>.mobbipro.pt`).
+
+> **🎙️ 🚗 Bookings can be made by voice in Grok Bot. In Tesla cars, the booking can be made directly from the car.**
 
 ## What's in the repo
 
